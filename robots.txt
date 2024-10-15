@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://ikigoeki.github.io/BsH/sitemap_index.txt.gz
+Sitemap: https://ikigoeki.github.io/MUi/sitemap_index.txt.gz
+Sitemap: https://ikigoeki.github.io/Vfw/sitemap_index.txt.gz
+Sitemap: https://ikigoeki.github.io/dCw/sitemap_index.txt.gz
+Sitemap: https://ikigoeki.github.io/pXi/sitemap_index.txt.gz
+Sitemap: https://ikigoeki.github.io/sitemap/sitemap_index.txt.gz
